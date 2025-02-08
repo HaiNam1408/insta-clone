@@ -1,0 +1,2 @@
+export const RE_CAPTCHA_SITE_KEY = '6LfogFcpAAAAAAABhDCDBd4e4WzuqYCpXwks17N7';
+export const RE_CAPTCHA_SECRET_KEY = '6LfogFcpAAAAAGNtj7o5ZYY9ME7rmP4DKyrbjqNq';
